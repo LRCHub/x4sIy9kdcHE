@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "BANG!!! (M2U Remix)",
+  "base_artist": "EGOIST",
+  "createdAt": "2025-12-27T07:05:03.398481Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BANG!!! (M2U Remix)",
+      "artist": "EGOIST",
+      "has_synced": false,
+      "path": "select/pl_01_BANG!!!_(M2U_Remix)_EGOIST.txt"
+    }
+  ]
+}
